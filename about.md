@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Arctic Fox* is a lightweight and customisable Jekyll Theme.
 
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+I am currently studying computer science for a master's degree in Tsinghua University, China.
+
+* Author: Siyuan Ren
+* Github: [rsy96](https://github.com/rsy96)
+* Stackoverflow: [Siyuan Ren](https://stackoverflow.com/users/832878/siyuan-ren)
+* Twitter: [rensiyuan96](https://twitter.com/rensiyuan96)
