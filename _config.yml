@@ -9,5 +9,4 @@ github_username: rsy96
 # Build settings
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
-kramdown:
-        input: gfm
+highlighter: pygments
