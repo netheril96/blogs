@@ -1,14 +1,13 @@
 # Site settings
 title: rsy's blog
-email:  rsy96@outlook.com
+email: netheril96@gmail.com
 baseurl: "/blogs" # the subpath of your site, e.g. /blog/
-url: "https://rsy96.github.io" # the base hostname & protocol for your site
-twitter_username: rensiyuan96
-github_username: rsy96
+url: "https://netheril96.github.io" # the base hostname & protocol for your site
+github_username: netheril96
 
 # Build settings
 markdown: kramdown
 markdown_ext:  markdown,mkdown,mkdn,mkd,md
-highlighter: pygments
+highlighter: rouge
 kramdown:
         input: GFM
